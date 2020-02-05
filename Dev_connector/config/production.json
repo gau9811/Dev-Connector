@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://gau7888:Gau9811@mern-g9p8w.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "ad63bd72abb88bbe5e91",
+  "githubSecret": "96458831a6cea4e7b7d3e6c18280df38b3a1cd9b"
+}
